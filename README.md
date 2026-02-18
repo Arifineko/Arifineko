@@ -1,76 +1,64 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Arifin Eko Saputro</h1>
-<h3 align="center">Frontend Developer from Purwokerto, Indonesia 🇮🇩</h3>
+<h1 align="center">Arifin Eko Saputro - Frontend Developer Indonesia</h1>
+<h3 align="center">React JS • Tailwind CSS • JavaScript • HTML • CSS</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+Frontend Developer based in Purwokerto, Indonesia specializing in building modern, responsive, and high-performance web applications using React JS and Tailwind CSS.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Arifin Eko Saputro
 
-- 💻 Passionate Frontend Developer  
-- 🎨 Love building modern & responsive UI  
-- ⚡ Focus on clean code & performance  
-- 📚 Always learning new web technologies  
-- 🌍 Based in Purwokerto, Indonesia  
+I am a Frontend Developer from Purwokerto, Indonesia with strong expertise in building responsive and user-friendly web interfaces.
+
+I focus on:
+
+- Building scalable web applications using React JS  
+- Creating modern UI with Tailwind CSS  
+- Writing clean and maintainable JavaScript code  
+- Optimizing website performance & responsiveness  
+- Converting UI/UX design into functional web applications  
+
+If you're looking for a Frontend Developer skilled in React and modern CSS frameworks, I'm ready to collaborate.
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-</p>
-
-### 🔹 Frontend
-- ⚛️ React JS  
-- 🎨 Tailwind CSS  
-- 🧱 HTML5  
-- 🎨 CSS3  
-- 📜 JavaScript  
+### Frontend Technologies
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React JS  
+- Tailwind CSS  
 
 ---
 
-## 📊 GitHub Stats
+## 💼 What I Do
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Current Focus
-
-- 🚀 Building modern web apps with React  
-- 🎨 Crafting beautiful UI using Tailwind CSS  
-- ⚡ Improving performance & scalability  
+✔ Develop responsive websites  
+✔ Build interactive user interfaces  
+✔ Implement reusable components in React  
+✔ Optimize frontend performance  
+✔ Ensure cross-browser compatibility  
 
 ---
 
-## 📫 Connect With Me
+## 📍 Location
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+Purwokerto, Indonesia  
+Available for remote work & collaboration.
 
 ---
 
-## ✨ Motto
+## 📫 Contact
 
-> "Code is not just code, it's a craft."
+- Email: your_email@gmail.com  
+- LinkedIn: https://linkedin.com/in/your_link  
+- Portfolio: https://yourportfolio.com  
 
 ---
 
-⭐ From Purwokerto with passion.
+## 🔎 Keywords
+
+Frontend Developer Indonesia, React JS Developer, Tailwind CSS Developer, JavaScript Developer, Web Developer Purwokerto, UI Developer Indonesia
