@@ -4,19 +4,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arif!;" />
 </h1>
 
-<h3 align="center">A passionate Fullstack Developer 🚀</h3>
+<h3 align="center">A passionate Web Developer 🚀</h3>
 
 <br/>
 
 <div align="center">
  
  🔭 I’m currently building modern web applications  
- 
- 🌱 I’m currently learning **advanced backend & cloud deployment**  
 
  💬 Ask me about **React, Express, Tailwind, Node.js**  
 
- ⚡ Fun fact: I love clean UI & smooth user experience  
 
 </div>
  
@@ -39,21 +36,5 @@
 </div>
 
 <br/>
-<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-<div align="center">
-  <img width=390 src="https://streak-stats.demolab.com?user=arifineko&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=arifineko&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifineko&layout=compact&theme=react&border_radius=10" alt="top langs" />
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  ⭐ Thanks for visiting my profile!
 </div>
