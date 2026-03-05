@@ -1,64 +1,35 @@
-<h1 align="center">Arifin Eko Saputro - Frontend Developer Indonesia</h1>
-<h3 align="center">React JS • Tailwind CSS • JavaScript • HTML • CSS</h3>
+# Hi 👋 I'm Your Name
 
-<p align="center">
-Frontend Developer based in Purwokerto, Indonesia specializing in building modern, responsive, and high-performance web applications using React JS and Tailwind CSS.
-</p>
-
----
-
-## 👨‍💻 About Arifin Eko Saputro
-
-I am a Frontend Developer from Purwokerto, Indonesia with strong expertise in building responsive and user-friendly web interfaces.
-
-I focus on:
-
-- Building scalable web applications using React JS  
-- Creating modern UI with Tailwind CSS  
-- Writing clean and maintainable JavaScript code  
-- Optimizing website performance & responsiveness  
-- Converting UI/UX design into functional web applications  
-
-If you're looking for a Frontend Developer skilled in React and modern CSS frameworks, I'm ready to collaborate.
+💻 Frontend & Backend Developer  
+⚡ Building modern web applications  
+🌱 Always improving my skills  
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend Technologies
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React JS  
-- Tailwind CSS  
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css)
+
+### 🔧 Backend
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
 
 ---
 
-## 💼 What I Do
+## 📊 GitHub Stats
 
-✔ Develop responsive websites  
-✔ Build interactive user interfaces  
-✔ Implement reusable components in React  
-✔ Optimize frontend performance  
-✔ Ensure cross-browser compatibility  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ---
 
-## 📍 Location
+## 📫 Connect With Me
 
-Purwokerto, Indonesia  
-Available for remote work & collaboration.
-
----
-
-## 📫 Contact
-
-- Email: your_email@gmail.com  
-- LinkedIn: https://linkedin.com/in/your_link  
-- Portfolio: https://yourportfolio.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
 
 ---
 
-## 🔎 Keywords
-
-Frontend Developer Indonesia, React JS Developer, Tailwind CSS Developer, JavaScript Developer, Web Developer Purwokerto, UI Developer Indonesia
+⭐️ Thanks for visiting my profile!
