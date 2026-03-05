@@ -1,8 +1,7 @@
-# Hi 👋 I'm Your Name
+# Hi 👋 I'm Arifin
 
-💻 Frontend & Backend Developer  
+💻 Frontend Developer  
 ⚡ Building modern web applications  
-🌱 Always improving my skills  
 
 ---
 
@@ -20,15 +19,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifineko&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifineko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifineko&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifineko&layout=compact&theme=tokyonight&hide_border=true)
 
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
+![GitHub Streak](https://streak-stats.demolab.com?user=arifineko&theme=tokyonight&hide_border=true)
 
 ---
 
