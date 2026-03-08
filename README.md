@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Arifin+%F0%9F%91%8B;Front+End+Developer;Building+Clean+%26+Responsive+UIs;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=70&lines=Hey+Im+Arifin+%F0%9F%91%8B" alt="Typing SVG" />
 
 <br/>
 
@@ -17,17 +17,12 @@
 
 ## 🧑‍💻 About Me
 
-```ts
-const arifin = {
-  role      : "Front End Developer",
-  focus     : ["Clean UI", "Responsive Design", "Maintainable Code"],
-  learning  : ["REST APIs", "Full-Stack Development"],
-  openTo    : ["Frontend Collaborations", "Professional Opportunities"],
-  contact   : "Arifineko886@gmail.com",
-};
-```
+I graduated in English Education, but curiosity took me somewhere unexpected. It started with modding games, grew through countless YouTube tutorials and a bootcamp, and eventually landed me an internship in the tech industry, all within 3 years. I learn fast and stay consistent. It's the only approach I know that actually works and right now I'm going deep into fullstack development.
 
-> I build web interfaces that are clean, fast, and purposeful — with an eye for detail and a habit of writing code that future-me won't hate.
+When I step away from the screen, I'm either at the gym or playing guitar. Both remind me that progress is built slowly, and that's perfectly fine
+
+Feel free to reach out — always open to good conversations and new opportunities.
+📩 Arifineko886@gmail.com
 
 ---
 
@@ -97,22 +92,6 @@ const arifin = {
 </table>
 
 ---
-
-## 📬 Let's Connect
-
-<div align="center">
-
-<a href="mailto:Arifineko886@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Arifineko">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&center=true&vCenter=true&width=600&height=50&duration=4000&color=4ADE80&lines=Open+to+collaboration+%E2%80%94+let's+build+something+great!+%F0%9F%A4%9D;Reach+out+anytime+%F0%9F%93%AC" />
 
 </div>
 
