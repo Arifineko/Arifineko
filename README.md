@@ -29,64 +29,34 @@ Feel free to reach out — always open to good conversations and new opportuniti
 ## ⚒️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,vscode,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,git,vitest,vite&theme=dark" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📺 YouTube UI Clone</h3>
-      <p>Full YouTube interface clone with live API integration, search, video playback, and responsive layout.</p>
+      <h3>📺 YouTube Clone</h3>
+      <p>Full interface clone with live API integration, search, video playback, and responsive layout.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/YouTube%20API-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
       </p>
       <p>
-        <a href="https://youtube-clone-apps-flame.vercel.app"><img src="https://img.shields.io/badge/🌐 Live Demo-4ADE80?style=for-the-badge"/></a>
-        <a href="https://github.com/Arifineko/Youtube-Clone"><img src="https://img.shields.io/badge/⭐ Source-A78BFA?style=for-the-badge"/></a>
+        <a href="https://youtube-clone-apps-flame.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-4ADE80?style=for-the-badge&logoColor=white"/></a>
+        <a href="https://github.com/Arifineko/Youtube-Clone"><img src="https://img.shields.io/badge/⭐_Source-A78BFA?style=for-the-badge&logoColor=white"/></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🚗 Elecar — Car Showcase</h3>
-      <p>A sleek, modern car showcase application with smooth UI interactions and clean visual design.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      </p>
-      <br/>
-      <p>
-        <a href="https://elecar-sites.netlify.app/"><img src="https://img.shields.io/badge/🌐 Live Demo-4ADE80?style=for-the-badge"/></a>
-        <a href="https://github.com/Arifineko/Elecar"><img src="https://img.shields.io/badge/⭐ Source-A78BFA?style=for-the-badge"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 Bookshelf CRUD App</h3>
-      <p>A fully functional bookshelf manager with create, read, update, and delete operations — built with vanilla JS.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <p>
-        <a href="https://bookshelf-site.vercel.app/"><img src="https://img.shields.io/badge/🌐 Live Demo-4ADE80?style=for-the-badge"/></a>
-        <a href="https://github.com/Arifineko/Bookshelf_Apps"><img src="https://img.shields.io/badge/⭐ Source-A78BFA?style=for-the-badge"/></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔜 More Coming Soon...</h3>
-      <p>Currently working on new projects exploring REST APIs and full-stack development. Stay tuned!</p>
-      <br/>
-      <p>
-        <img src="https://img.shields.io/badge/Status-In%20Progress-60A5FA?style=for-the-badge"/>
-      </p>
+    <td width="50%" valign="center" align="center">
+      <div class="flex flex-col items-center justify-center min-h-screen p-4">
+  <h1 class="text-4xl font-bold">Coming Soon</h1>
+  <p>Building the next project.</p>
+</div>
     </td>
   </tr>
 </table>
