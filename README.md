@@ -29,7 +29,7 @@ Feel free to reach out — always open to good conversations and new opportuniti
 ## ⚒️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,git,vitest,vite&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript,postgres,prisma,git,vitest,vite&theme=dark" />
 </div>
 
 ---
